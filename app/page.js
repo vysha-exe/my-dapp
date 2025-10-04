@@ -21,7 +21,7 @@ export default function Page() {
           position: 'absolute',
           bottom: '10px',  
           right: '20px',
-          fontSize: '1.5rem',
+          fontSize: '0.9rem',
           fontFamily: 'cursive',
           color: 'rgba(200,200,200,0.3)',
           userSelect: 'none'
