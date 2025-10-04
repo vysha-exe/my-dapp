@@ -45,7 +45,7 @@ export default function MessageClient() {
 
   return (
     <div style={{ fontSize: 18, fontWeight: 600 }}>
-      <p>📜 Current Message: {message}</p>
+      <p> Current Message: {message}</p>
 
       <form onSubmit={handleSubmit} style={{ marginTop: 20 }}>
         <input
